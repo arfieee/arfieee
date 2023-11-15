@@ -34,4 +34,4 @@ I'm a tech-savvy individual with a passion for Deep Learning and Computer Vision
 
 ### Connect with Me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamima-afrin/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arfieee/) 

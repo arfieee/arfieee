@@ -16,11 +16,7 @@ I'm a tech enthusiast specializing in Deep Learning and Computer Vision, with a 
 #### My Experience
 
 - :car: Currently leading the charge in ADAS at FORVIA, shaping the future of automotive technology.
-- :computer: Previously served as a Front-end Engineer at CloudProduction Limited, contributing to web and mobile app development projects.
-
-#### Available for Opportunities
-
-- 👯 Open to exciting opportunities in the field of Deep Learning, Computer Vision, and ADAS.
+- :computer: Previously served as a Railway Signal Enginner in LS Electric.
 
 #### Let's Connect
 
@@ -29,9 +25,7 @@ I'm a tech enthusiast specializing in Deep Learning and Computer Vision, with a 
 
 #### Fun Facts
 
-- :partying_face: Besides tech, I'm a fashion enthusiast and a badminton fanatic – my favorite ways to unwind!
-- :wrench: My tools of choice: VSCode and Xcode
+- :partying_face: Besides tech, I like to watch Movie and Boxing – my favorite ways to unwind!
 
-### Connect with Me
-
+### Social Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arfieee/) 

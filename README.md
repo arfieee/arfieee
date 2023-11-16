@@ -1,4 +1,4 @@
-<h1 align="center"><pre>Hey there! I'm Arfi - Driving Innovation in ADAS</pre></h1>
+<h1 align="center"><pre>Hey there! 👋 I'm Arfi - Driving Innovation in ADAS🚗</pre></h1>
 
 I'm Arfi, an Electrical and Electronics Engineering graduate with a master's in Deep Learning and Computer Vision. By day, I navigate the complexities of Advanced Driver Assistance Systems (ADAS) at FORVIA, specializing in Auto-Parking and Sensor Fusion.
 
@@ -16,22 +16,20 @@ I'm Arfi, an Electrical and Electronics Engineering graduate with a master's in 
 
 #### My Experience
 
-- :car: Leading the ADAS revolution at FORVIA, shaping the future of automotive safety and autonomy.
-- :train: Formerly a Railway Signal Engineer at LS Electric, contributing to transportation safety.
+- 🤖 Leading the ADAS revolution at FORVIA, shaping the future of automotive safety and autonomy.
+- 🚈 Formerly a Railway Signal Engineer at LS Electric, contributing to transportation safety.
 
-#### Let's Connect
+#### Let's Connect 🤝
 
-  💬 Open to discussions on Deep Learning, Computer Vision, and all things tech.<br>
-  📫 Drop me a line at [arfibhai20@gmail.com].
+💬 Open to discussions on Deep Learning, Computer Vision, and all things tech. 💬<br/>
+📫 Drop me a line at [arfibhai20@gmail.com]. 📫
 
-#### Fun Facts
+#### Fun Facts 🤓
 
-  :partying_face: Beyond tech, I enjoy watching movies and practicing boxing – my favorite ways to unwind!
+🎉 Beyond tech, I enjoy watching movies, practicing boxing, and exploring new technologies – my favorite ways to unwind and stay ahead of the curve! 🥊
 
 ### Lets Chat:
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arfieee/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arfieee/)
 
 ### Explore My Research
-  [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.co.jp/citations?user=5ofhZfkAAAAJ&hl=en)
-
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.co.jp/citations?user=5ofhZfkAAAAJ&hl=en)

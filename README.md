@@ -4,8 +4,6 @@ I'm Arfi, an Electrical and Electronics Engineering graduate with a master's in 
 
 #### My Skills
 
-#### My Skills
-
 <p align="center">
   <img src="https://img.shields.io/badge/Deep_Learning-000000?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Computer_Vision-000000?style=flat-square&logo=python&logoColor=white"/>
@@ -21,7 +19,6 @@ I'm Arfi, an Electrical and Electronics Engineering graduate with a master's in 
   <img src="https://img.shields.io/badge/Doors_Next_Gen-007BFF?style=flat-square&logo=ibm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 </p>
-
 
 #### My Experience
 

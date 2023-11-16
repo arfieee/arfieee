@@ -21,16 +21,12 @@ I'm Arfi, an Electrical and Electronics Engineering graduate with a master's in 
 
 #### Let's Connect
 
-<p align="center">
   💬 Open to discussions on Deep Learning, Computer Vision, and all things tech.<br>
   📫 Drop me a line at [arfibhai20@gmail.com].
-</p>
 
 #### Fun Facts
 
-<p align="center">  
   :partying_face: Beyond tech, I enjoy watching movies and practicing boxing – my favorite ways to unwind!
-</p>
 
 ### Lets Chat:
 

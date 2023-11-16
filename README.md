@@ -11,10 +11,10 @@ I'm Arfi, an Electrical and Electronics Engineering graduate with a master's in 
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Computer_Vision-000000?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-000000?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-000000?style=flat-square&logo=neural-network&logoColor=white"/>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-000000?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-000000?style=flat-square&logo=algorithmia&logoColor=white"/>
   <img src="https://img.shields.io/badge/HILS-009688?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/AUTOSAR-06578E?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Doors_Next_Gen-007BFF?style=flat-square&logo=ibm&logoColor=white"/>

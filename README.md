@@ -4,15 +4,24 @@ I'm Arfi, an Electrical and Electronics Engineering graduate with a master's in 
 
 #### My Skills
 
+#### My Skills
+
 <p align="center">
   <img src="https://img.shields.io/badge/Deep_Learning-000000?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Computer_Vision-000000?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Image_Processing-000000?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pattern_Recognition-000000?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine_Learning-000000?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HILS-009688?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AUTOSAR-06578E?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Doors_Next_Gen-007BFF?style=flat-square&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 </p>
+
 
 #### My Experience
 

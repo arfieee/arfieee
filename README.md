@@ -1,7 +1,4 @@
 <h1 align="center"><pre>Hey there! I'm Arfi - Driving Innovation in ADAS</pre></h1>
-<br>
-
-<p align="center"><img src="https://img.shields.io/badge/Welcome%20to%20My%20World-000000?style=for-the-badge&logo=appveyor&labelColor=black" alt="Welcome to My World Badge"/></p>
 
 I'm Arfi, an Electrical and Electronics Engineering graduate with a master's in Deep Learning and Computer Vision. By day, I navigate the complexities of Advanced Driver Assistance Systems (ADAS) at FORVIA, specializing in Auto-Parking and Sensor Fusion.
 
@@ -35,14 +32,10 @@ I'm Arfi, an Electrical and Electronics Engineering graduate with a master's in 
   :partying_face: Beyond tech, I enjoy watching movies and practicing boxing – my favorite ways to unwind!
 </p>
 
-### Connect with Me
+### Lets Chat:
 
-<p align="center">
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arfieee/)
-</p>
 
 ### Explore My Research
-
-<p align="center">
   [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.co.jp/citations?user=5ofhZfkAAAAJ&hl=en)
-</p>
+

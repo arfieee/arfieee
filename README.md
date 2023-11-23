@@ -29,7 +29,7 @@ I'm Arfi, an Electrical and Electronics Engineering graduate with a master's in 
 #### Let's Connect 🤝
 
 💬 Open to discussions on Deep Learning, Computer Vision, and all things tech. 💬<br/>
-📫 Drop me a line at [arfibhai20@gmail.com]. 📫
+📫 Drop me a message [✉️](mailto:arfibhai20@gmail.com) 📫
 
 #### Fun Facts 🤓
 

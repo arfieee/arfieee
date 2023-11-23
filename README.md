@@ -40,3 +40,4 @@ I'm Arfi, an Electrical and Electronics Engineering graduate with a master's in 
 
 ### Explore My Research
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.co.jp/citations?user=5ofhZfkAAAAJ&hl=en)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arfieee.visitor-badge&left_color=%2300ff00&right_color=%23ff0000)
